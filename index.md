@@ -9,3 +9,9 @@ Check this out:
 ```
 print("Hello, world!")
 ```
+
+
+Alright this is pretty cool:
+
+- [] the rendering looks nice
+- [x] ain't no way
