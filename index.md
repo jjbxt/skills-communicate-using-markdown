@@ -3,3 +3,9 @@
 ###### Level 6 mafia boss
 
 ![Image of Yoctocat](https://octodex.github.com/images/yaktocat.png)
+
+Check this out:
+
+```
+print("Hello, world!")
+```
